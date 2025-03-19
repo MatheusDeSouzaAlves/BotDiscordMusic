@@ -9,7 +9,11 @@
 
 ## Outros comandos
 `1stop - Para a música`
+
 `1pause - Pausa a música`
+
 `1resume - Retoma a música`
+
 `1playq - Adiciona a música na fila`
+
 `1next - Passa para a próxima música na fila`
