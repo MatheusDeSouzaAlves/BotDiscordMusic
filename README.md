@@ -17,7 +17,7 @@
 `1playq - Adiciona a música na fila`
 
 `1next - Passa para a próxima música na fila`
-## GUIA PARA CRIAR O SEU BOT NO DISCCORD (Também presente no código)
+## GUIA PARA CRIAR O SEU BOT NO DISCORD (Também presente no código)
 
 Configuração do Ambiente de Desenvolvimento
 
