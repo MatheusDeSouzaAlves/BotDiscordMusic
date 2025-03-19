@@ -1,5 +1,6 @@
 # BotDiscordMusic
 ### Meu BOT autoral de Discord que reproduz músicas
+Video de Demonstração: https://youtu.be/K9_8XxPgE20
 
 ## Contexto
  É comum que existam vários bots no Discord que reproduzem músicas, resolvi criar o meu próprio por hobby utlizando Python.
